@@ -42,7 +42,7 @@ public class Alerts {
 	
 		driver.get("sbdbforums");
 		
-		
+		driver.get("Google.com");
 		
 		
 		
