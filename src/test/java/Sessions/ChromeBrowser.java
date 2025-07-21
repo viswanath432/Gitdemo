@@ -28,6 +28,15 @@ public class ChromeBrowser {
 		else {
 			System.out.println("Failed");
 		}
+		
+		if(ActualTitle.equals("Your Store updated again"))
+		{
+			System.out.println("Passed");
+		}
+		else {
+			System.out.println("Failed");
+		}
+
 
 	}
 
