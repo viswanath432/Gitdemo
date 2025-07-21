@@ -21,7 +21,13 @@ public class ChromeBrowser {
 			System.out.println("Failed");
 		}
 	
-		
+		if(ActualTitle.equals("Your Store updated"))
+		{
+			System.out.println("Passed");
+		}
+		else {
+			System.out.println("Failed");
+		}
 
 	}
 
